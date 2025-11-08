@@ -1,1 +1,0 @@
-Happy Birthday yakk, edin dhh buat ini hampir 3 bulan lebih soalnya hrus bljr ulang dri awal. Bjirr ada bbrpa kali k' vitha hmpir tau itu apa. Keknya k' vitha tau itu apa cuman pura" tak tau aee itu mah. Yang
