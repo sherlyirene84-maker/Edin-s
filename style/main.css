@@ -105,6 +105,8 @@ body {
   display: inline-block;
   height: 350px;
   max-width: 100%;
+  transform: rotate(-90deg)
+  transform-origin: center;
   /* height: auto; */
 }
 
@@ -289,4 +291,5 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
+
 }
