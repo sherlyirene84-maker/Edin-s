@@ -106,7 +106,6 @@ body {
   height: 350px;
   max-width: 100%;
   transform: rotate(-90deg)
-  transform-origin: center;
   /* height: auto; */
 }
 
@@ -293,3 +292,4 @@ body {
   }
 
 }
+
